@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @swapnilg671
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m SWAPNIL GUPTA
+- 🐙 Follow me on Github : github.com/swapnilxi
+- 👀 I’m interested in Computer Vision
+- 🌱 I’m currently learning Java Programming
+- 💞️ I’m looking to collaborate on The Social Plant
+- 📫 How to reach me swapnilg671@gmail.com || swapnil.xi@gmail.com
 
 <!---
 swapnilg671/swapnilg671 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
