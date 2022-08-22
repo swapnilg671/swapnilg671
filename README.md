@@ -1,5 +1,5 @@
 - 👋 Hi, I’m SWAPNIL GUPTA
-- 🐙 Follow me on Github : github.com/swapnilxi
+- 🐙 Follow me on Github : https://github.com/swapnilxi
 - 👀 I’m interested in Computer Vision
 - 🌱 I’m currently learning Java Programming
 - 💞️ I’m looking to collaborate on The Social Plant
